@@ -38,7 +38,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 [![wakatime](https://wakati
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (68)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (67)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -59,7 +59,6 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 [![wakatime](https://wakati
 <a href="https://github.com/azra316" target="_blank"><img src="https://avatars.githubusercontent.com/u/139526226?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/BionStt" target="_blank"><img src="https://avatars.githubusercontent.com/u/43228630?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Bulbuccus" target="_blank"><img src="https://avatars.githubusercontent.com/u/153486220?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
-<a href="https://github.com/cgchiraggupta" target="_blank"><img src="https://avatars.githubusercontent.com/u/173843331?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/ch-stya" target="_blank"><img src="https://avatars.githubusercontent.com/u/192712419?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/davidfgomes" target="_blank"><img src="https://avatars.githubusercontent.com/u/132530609?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Deb0071" target="_blank"><img src="https://avatars.githubusercontent.com/u/123491673?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -137,8 +136,8 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 [![wakatime](https://wakati
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Jan 12, 2025, 7:41 AM IST</b><br/>
-      Number of workflows: <b>71</b><br/><br/>
+      Last refresh: <b>Jan 13, 2025, 7:38 AM IST</b><br/>
+      Number of workflows: <b>72</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
