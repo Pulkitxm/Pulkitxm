@@ -1,0 +1,202 @@
+% Document class and basic packages
+\documentclass[letterpaper,11pt]{article}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{textcase}
+
+% Document setup
+\definecolor{headerColor}{RGB}{0,0,0}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\setlength{\footskip}{4.08003pt}
+
+% Font configuration
+\input{glyphtounicode}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\renewcommand{\sfdefault}{phv}
+\renewcommand{\rmdefault}{ptm}
+
+% Page layout
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom%
+\raggedright%
+\setlength{\tabcolsep}{0in}
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{headerColor}\titlerule%
+\vspace{-5pt}]
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{
+  \item{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{ #2} \\
+      \textit{#3} & \textit{ #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+\begin{center}
+    {\Huge \scshape Pulkit} \\ \vspace{3pt}
+    New Delhi, India \\ \vspace{3pt}
+    \small 
+    \href{tel:+919310212605}{\raisebox{-0.1\height}\faPhone\ \underline{+91-9310212605}} ~
+    \href{https://www.devpulkit.in/}{\raisebox{-0.2\height}\faLink\ \underline{devpulkit.in}} ~
+    \href{mailto:kpulkit15234@gmail.com}{\raisebox{-0.2\height}\faEnvelope\ \underline{kpulkit15234@gmail.com}} ~
+    \href{https://www.linkedin.com/in/pulkitxm}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/pulkitxm}} ~
+    \href{https://github.com/Pulkitxm}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/pulkitxm}}
+    \vspace{-8pt}
+\end{center}
+
+\section{Education}
+\resumeSubHeadingListStart%
+\resumeSubheading%
+{Bachelor of Technology in Computer Science}{Gurugram, Haryana, India}
+{Dronacharya College of Engineering}{Oct. 2022 – Present}
+\resumeSubHeadingListEnd%
+
+\section{Experience}
+\resumeSubHeadingListStart%
+\resumeSubheading%
+{Full Stack Engineer Intern}{April 2024 - Sept. 2024}
+{\href{https://www.datawavelabs.io/}{Datawavelabs}}{Remote, India}
+\resumeItemListStart%
+\resumeItem{Increased user authentication security by 40\% through implementation of JWT tokens and Google OAuth integration}
+\resumeItem{Implemented cloud account integration with AWS, Azure, and GCP, allowing users to connect and manage cloud services within the application.}
+\resumeItem{Automated the workflow of running Docker containers for cluster services, providing real-time status updates and improving system efficiency.}
+\resumeItem{Improved database query performance by 50\% by implementing SQLAlchemy ORM and optimizing PostgreSQL queries instead of raw sql queries}
+\resumeItem{Collaborated in daily standup meetings and effectively managed tasks with minimal supervision, ensuring timely delivery of features.}
+\resumeItemListEnd%
+\resumeSubHeadingListEnd%
+\vspace{-14pt}
+
+\section{Technical Projects}
+\vspace{-1pt}
+\begin{itemize}[leftmargin=*,itemsep=2pt,parsep=0pt,topsep=0pt,partopsep=0pt]
+
+    \item \textbf{\href{https://deployit.live/}{Deployit}} $|$ \emph{MERN, Typescript, S3, Image Processing with JIMP}\hfill {August 2024}
+          \begin{itemize}[leftmargin=*,itemsep=1pt,parsep=0pt,topsep=0pt,partopsep=0pt]
+              \item Built a deployment platform enabling users to deploy repositories with a custom
+                    slug URL, featuring automated build and deployment processes.
+              \item Developed deployment queueing using Redis for efficient task management and
+                    streamlined operations.
+              \item Enhanced performance and scalability by using CDN to serve assets quickly and
+                    reliably.
+          \end{itemize}
+
+    \item \textbf{\href{https://image-tweaker.devpulkit.in/}{Image Tweaker}} $|$ \emph{MERN, Typescript, S3, Image Processing with JIMP} \hfill { August 2024}
+          \begin{itemize}[leftmargin=*,itemsep=1pt,parsep=0pt,topsep=0pt,partopsep=0pt]
+              \item Built an image optimization tool using Node.js, Express.js, and Docker,
+                    featuring real-time adjustments and S3 caching for enhanced performance.
+              \item Designed a user-friendly interface for diverse image manipulation needs,
+                    integrating JIMP for advanced processing capabilities.
+          \end{itemize}
+
+    \item \textbf{Vidwave} $|$ \emph{MERN, Typescript, S3, Docker, Video.js (HLS)}\hfill {August 2024}
+          \begin{itemize}[leftmargin=*,itemsep=1pt,parsep=0pt,topsep=0pt,partopsep=0pt]
+              \item Developed a video streaming platform with upload, transcoding, and streaming
+                    capabilities using AWS S3.
+              \item Designed automatic video transcoding and HLS streaming for optimal playback,
+                    leveraging Redis for efficient queue management.
+          \end{itemize}
+
+\end{itemize}
+\vspace{-8pt}
+
+\section{Technical Skills}
+\begin{itemize}[leftmargin=*,itemsep=2pt,parsep=0pt,topsep=0pt,partopsep=0pt]
+    \item \textbf{Languages:} TypeScript, JavaScript, Python, Java, C++, SQL
+    \item \textbf{Backend:} Node.js, Express.js, Hono, FastAPI, GraphQL, REST APIs
+    \item \textbf{Frontend:} NextJS, React.js, HTML5, CSS3, Tailwind CSS, Material-UI, Redux, Shadcn/ui
+    \item \textbf{DevOps \& Cloud:} Docker, AWS (EC2, S3, CloudFront), Azure, CI/CD, GitHub Actions
+    \item \textbf{Database \& Cache:} PostgreSQL, MongoDB, Redis, Prisma ORM
+    \item \textbf{Testing:} Jest, Cypress, Unit Testing, Integration Testing
+    \item \textbf{Tools \& Security:} Git, JWT, OAuth 2.0, Bcrypt
+\end{itemize}
+\vspace{-7pt}
+
+% \section{Certifications}
+% \vspace{-8pt}
+% \begin{table}[h!]
+%     \renewcommand{\arraystretch}{1.5}
+%     \setlength{\tabcolsep}{6pt}
+%     \begin{tabularx}{\linewidth}{|X|X|l|l|}
+%         \hline
+%         \textbf{Certification} & \textbf{Issuing Organization} & \textbf{Date} & \textbf{Link} \\
+%         \hline
+%         GitHub Foundations & \href{https://github.com}{GitHub} & November, 2024 & 
+%         \href{https://www.credly.com/badges/0d980c06-511c-4e3d-a9a7-9973688b34ad}{View} \\
+%         \hline
+%         Full Stack Open & \href{https://www.helsinki.fi/en}{University of Helsinki} & March, 2024 & 
+%         \href{https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/YOUR-CERT-ID}{View} \\
+%         \hline
+%     \end{tabularx}
+% \end{table}
+
+\section{Leadership \& Achievements}
+\begin{itemize}[leftmargin=*,itemsep=2pt,parsep=0pt,topsep=0pt,partopsep=0pt]
+    \item \textbf{ICPC Amritapuri 2023 Regionalist}: Qualified for the regional round of the global programming competition.
+    \item \textbf{Chairman \& Web Lead}, Deviators Club: Student-led technical initiative. Hosted a lot of tech events
+    \item \textbf{HackKRMU 3.0 AIML Track Prize Winner}: Recognized for innovative AI/ML application.
+    \item \textbf{Gurugram University Ideathon Winner}: Secured first place for innovative AI-driven travel solutions, awarded by the Honorable Chief Minister of Haryana.
+\end{itemize}
+
+\end{document}

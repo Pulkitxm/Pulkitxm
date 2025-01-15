@@ -1,0 +1,21 @@
+# LaTeX generated files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.gz
+
+# Editor backup files
+*~
+*.bak
+*.swp
+
+# Build folder (if exists)
+_build/
