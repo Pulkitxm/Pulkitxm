@@ -1,0 +1,47 @@
+name: Build Resume
+on:
+  push:
+    paths:
+      - 'resume/**'
+
+jobs:
+  build-resume:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Install LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            texlive-latex-base \
+            texlive-latex-extra \
+            texlive-fonts-extra \
+            texlive-fonts-recommended
+
+      - name: Build Resume
+        run: |
+          cd resume
+          pdflatex resume.tex
+
+      - name: Upload PDF
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume
+          path: resume/resume.pdf
+
+      - name: Commit PDF
+        run: |
+          git config --local user.email "${{ secrets.GIT_EMAIL }}"
+          git config --local user.name "${{ secrets.GIT_USERNAME }}"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Updated README.md"
+      - name: Pull changes
+        run: git pull -r
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
