@@ -2,14 +2,7 @@
 
 <br/>
  
-My name is Pulkit. I'm a undergraduate from 🇮🇳 [![wakatime](https://wakatime.com/badge/user/018b392d-3ab1-4608-aec5-c9d51a551252.svg)](https://wakatime.com/@018b392d-3ab1-4608-aec5-c9d51a551252)
-
-<h3>
- I’m currently seeking opportunities where I can contribute, learn, and grow as a developer. If you’re looking for someone passionate about building impactful software and eager to dive into new challenges, let’s connect!
- <br/>
- Feel free to reach out or drop a message at <a href="http://devpulkit.in/contact">devpulkit.in/contact</a>
-</h3>
-<br/>
+My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor-badge.laobi.icu/badge?page_id=pulkitxm.pulkitxm&)
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pulkitxm&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10">
 
