@@ -38,7 +38,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 [![wakatime](https://wakati
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (68)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (70)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -105,11 +105,13 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 [![wakatime](https://wakati
 <a href="https://github.com/Some1Uknow" target="_blank"><img src="https://avatars.githubusercontent.com/u/130275024?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/SrijaVuppala295" target="_blank"><img src="https://avatars.githubusercontent.com/u/140592148?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/standardgalactic" target="_blank"><img src="https://avatars.githubusercontent.com/u/43516554?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/umangPokhriyall" target="_blank"><img src="https://avatars.githubusercontent.com/u/151832630?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/UrCode-Buddy" target="_blank"><img src="https://avatars.githubusercontent.com/u/136894128?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/uurbanbuddha" target="_blank"><img src="https://avatars.githubusercontent.com/u/126100574?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/vibhorjoshi" target="_blank"><img src="https://avatars.githubusercontent.com/u/105739194?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Vivek09Chahal" target="_blank"><img src="https://avatars.githubusercontent.com/u/103368320?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/warmice71" target="_blank"><img src="https://avatars.githubusercontent.com/u/136490321?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/XiaomingX" target="_blank"><img src="https://avatars.githubusercontent.com/u/5387930?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/yashdhawane" target="_blank"><img src="https://avatars.githubusercontent.com/u/40862348?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a></div>
 <!--END_SECTION:top-followers-->
 
@@ -146,8 +148,8 @@ HTML          9 hrs 57 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Jan 26, 2025, 7:30 AM IST</b><br/>
-      Number of workflows: <b>96</b><br/><br/>
+      Last refresh: <b>Jan 27, 2025, 7:27 AM IST</b><br/>
+      Number of workflows: <b>106</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
