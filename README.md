@@ -4,7 +4,7 @@
  
 My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor-badge.laobi.icu/badge?page_id=pulkitxm.pulkitxm&)
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=pulkitxm&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10">
+<img align="right" width="50%" src="https://streak-stats.demolab.com/?user=pulkitxm&theme=merko&hide_border=true">
 
 - :computer: Know more about me: [devpulkit.in](https://www.devpulkit.in/)
 - :pencil2: JavaScript / TypeScript / Python
