@@ -31,7 +31,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (81)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (83)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -102,7 +102,9 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/scorpionkinganukis" target="_blank"><img src="https://avatars.githubusercontent.com/u/81745188?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/shashank30082004" target="_blank"><img src="https://avatars.githubusercontent.com/u/140587990?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/ShashankRampardos" target="_blank"><img src="https://avatars.githubusercontent.com/u/66352865?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/Shashivadan" target="_blank"><img src="https://avatars.githubusercontent.com/u/118878507?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/shivamsaklani" target="_blank"><img src="https://avatars.githubusercontent.com/u/86798314?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/Shofikul-Isl4m" target="_blank"><img src="https://avatars.githubusercontent.com/u/167792832?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Shrey31G" target="_blank"><img src="https://avatars.githubusercontent.com/u/187504811?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/shubhamsharma-10" target="_blank"><img src="https://avatars.githubusercontent.com/u/147449193?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/smitjiwani" target="_blank"><img src="https://avatars.githubusercontent.com/u/78549024?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -152,8 +154,8 @@ YAML          11 hrs 5 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Feb 6, 2025, 7:27 AM IST</b><br/>
-      Number of workflows: <b>126</b><br/><br/>
+      Last refresh: <b>Feb 7, 2025, 7:29 AM IST</b><br/>
+      Number of workflows: <b>128</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
