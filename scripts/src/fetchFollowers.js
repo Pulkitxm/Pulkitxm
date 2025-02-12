@@ -16,24 +16,38 @@ const octokit = new Octokit({
 
 const getLatestFollowers = async () => {
   const username = "pulkitxm";
-  try {
-    const { data } = await octokit.rest.users.listFollowersForAuthenticatedUser(
-      {
-        username: username,
-        per_page: 1000000000000,
-      },
-    );
+  let followers = [];
+  let page = 1;
+  const perPage = 100;
+  let hasMore = true;
 
-    const followers = data.map((follower) => ({
+  try {
+    while (hasMore) {
+      const { data } = await octokit.rest.users.listFollowersForAuthenticatedUser({
+        username: username,
+        per_page: perPage,
+        page: page,
+      });
+
+      followers = followers.concat(data);
+
+      if (data.length < perPage) {
+        hasMore = false;
+      } else {
+        page++;
+      }
+    }
+
+    const formattedFollowers = followers.map((follower) => ({
       profileUrl: follower.html_url,
       picUrl: follower.avatar_url,
     }));
 
-    followers.sort((a, b) => {
+    formattedFollowers.sort((a, b) => {
       return a.profileUrl.localeCompare(b.profileUrl);
     });
 
-    return followers;
+    return formattedFollowers;
   } catch (error) {
     console.error("Error fetching followers:", error.message);
   }
