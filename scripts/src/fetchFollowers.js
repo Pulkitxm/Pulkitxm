@@ -23,11 +23,12 @@ const getLatestFollowers = async () => {
 
   try {
     while (hasMore) {
-      const { data } = await octokit.rest.users.listFollowersForAuthenticatedUser({
-        username: username,
-        per_page: perPage,
-        page: page,
-      });
+      const { data } =
+        await octokit.rest.users.listFollowersForAuthenticatedUser({
+          username: username,
+          per_page: perPage,
+          page: page,
+        });
 
       followers = followers.concat(data);
 
