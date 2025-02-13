@@ -31,7 +31,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (183)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (183)](http://devpulkit.in/gh-followers)
 
 <!--End_SECTION:top-followers-heading-->
 
