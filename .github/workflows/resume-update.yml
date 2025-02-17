@@ -26,7 +26,7 @@ jobs:
           pdflatex resume.tex
 
       - name: Upload PDF
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: resume
           path: resume/resume.pdf
