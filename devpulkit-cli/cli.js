@@ -8,7 +8,7 @@ const greenStr = (str) => `\x1b[32m${str}\x1b[32m`;
 const info = {
   name: "Pulkit",
   status: "CS student",
-  web: "https://www.devpulkit.in",
+  web: "https://www.pulkitxm.com",
   linkedin: "http://www.linkedin.com/in/pulkit-dce",
   gh: "https://github.com/Pulkitxm",
   twitter: "https://twitter.com/devpulkitt",

@@ -6,7 +6,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 
 <img align="right" width="50%" src="https://streak-stats.demolab.com/?user=pulkitxm&theme=merko&hide_border=true">
 
-- :computer: Know more about me: [devpulkit.in](https://www.devpulkit.in/)
+- :computer: Know more about me: [pulkitxm.com](https://www.pulkitxm.com/)
 - :pencil2: JavaScript / TypeScript / Python
 - :package: [Ubuntu](https://ubuntu.com/) / [vscode](https://code.visualstudio.com) / [edge](https://www.microsoft.com/en-us/edge)
 - :seedling: Exploring new opportunities in tech!
@@ -16,15 +16,15 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 
 ---
 
-### :pencil: [Latest blog posts](https://blogs.devpulkit.in)
+### :pencil: [Latest blog posts](https://blogs.pulkitxm.com)
 
 <!--START_SECTION:blog-posts-->
 | Title | Date | Image |
 | ----- | ---- | ----- |
-| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.devpulkit.in/emails-with-resend) | Dec 13, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
-| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.devpulkit.in/open-graph-images-in-nextjs) | Nov 15, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
-| [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
-| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) | Aug 12, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
+| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.pulkitxm.com/emails-with-resend) | Dec 13, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
+| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.pulkitxm.com/open-graph-images-in-nextjs) | Nov 15, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
+| [Setting Up Prisma ORM with PostgreSQL](https://blogs.pulkitxm.com/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
+| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.pulkitxm.com/react-image-gallery-with-photoswipe) | Aug 12, 2024 | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp"  />
 <!--END_SECTION:blog-posts-->
 
 ---
@@ -293,7 +293,7 @@ YAML          12 hrs 4 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:workflows-update-->
 <div align="center">
-    <a href="https://www.devpulkit.in" style="text-decoration: none; display: inline-block;">
+    <a href="https://www.pulkitxm.com" style="text-decoration: none; display: inline-block;">
         <img src="./assets/web.svg" alt="Website" height="30" width="30" />
     </a>
     &nbsp;&nbsp;

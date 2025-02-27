@@ -6,7 +6,7 @@ This is my resume created using LaTeX. You can find my PDF version below.
 
 You can download my resume by clicking the link below:
 
-[Download PDF](http://resume.devpulkit.in)
+[Download PDF](http://resume.pulkitxm.com)
 
 
 ## LaTeX Source
