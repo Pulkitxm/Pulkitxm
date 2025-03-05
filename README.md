@@ -21,17 +21,17 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <!--START_SECTION:blog-posts-->
 | Title | Date | Image |
 | ----- | ---- | ----- |
-| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.devpulkit.in/emails-with-resend) | Dec 13, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.devpulkit.in/emails-with-resend)
-| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.devpulkit.in/open-graph-images-in-nextjs) | Nov 15, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.devpulkit.in/open-graph-images-in-nextjs)
-| [Setting Up Prisma ORM with PostgreSQL](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.devpulkit.in/setting-up-prisma-orm-with-postgresql)
-| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe) | Aug 12, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.devpulkit.in/react-image-gallery-with-photoswipe)
+| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.pulkitxm.com/emails-with-resend) | Dec 13, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/emails-with-resend)
+| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.pulkitxm.com/open-graph-images-in-nextjs) | Nov 15, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/open-graph-images-in-nextjs)
+| [Setting Up Prisma ORM with PostgreSQL](https://blogs.pulkitxm.com/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/setting-up-prisma-orm-with-postgresql)
+| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.pulkitxm.com/react-image-gallery-with-photoswipe) | Aug 12, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/react-image-gallery-with-photoswipe)
 <!--END_SECTION:blog-posts-->
 
 ---
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (203)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (201)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -83,7 +83,6 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/BhagwaniVishi" target="_blank"><img src="https://avatars.githubusercontent.com/u/162348077?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/bhaveshsinghal95182" target="_blank"><img src="https://avatars.githubusercontent.com/u/168349039?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Bhavishya-Chaturvedi" target="_blank"><img src="https://avatars.githubusercontent.com/u/139005062?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
-<a href="https://github.com/Bhup-GitHUB" target="_blank"><img src="https://avatars.githubusercontent.com/u/145711585?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/BionStt" target="_blank"><img src="https://avatars.githubusercontent.com/u/43228630?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Bobyson" target="_blank"><img src="https://avatars.githubusercontent.com/u/143019700?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Bulbuccus" target="_blank"><img src="https://avatars.githubusercontent.com/u/153486220?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -183,7 +182,6 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/riteshyaaa" target="_blank"><img src="https://avatars.githubusercontent.com/u/172425050?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/riyan047" target="_blank"><img src="https://avatars.githubusercontent.com/u/91652308?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/RJ8084" target="_blank"><img src="https://avatars.githubusercontent.com/u/146812036?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
-<a href="https://github.com/Rohit-Singh-Rawat" target="_blank"><img src="https://avatars.githubusercontent.com/u/117940279?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/rohitturkar" target="_blank"><img src="https://avatars.githubusercontent.com/u/77043500?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/ronit-1404" target="_blank"><img src="https://avatars.githubusercontent.com/u/88834510?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/rr3s1" target="_blank"><img src="https://avatars.githubusercontent.com/u/75430531?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -274,8 +272,8 @@ YAML          12 hrs 17 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Mar 4, 2025, 7:37 AM IST</b><br/>
-      Number of workflows: <b>214</b><br/><br/>
+      Last refresh: <b>Mar 5, 2025, 7:37 AM IST</b><br/>
+      Number of workflows: <b>218</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
