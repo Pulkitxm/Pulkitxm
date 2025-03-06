@@ -70,7 +70,7 @@ export async function handleFetchFollowers() {
       followers
         .map(
           (follower) =>
-            `<a href="${follower.profileUrl}" target="_blank"><img src="${follower.picUrl}" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>`,
+            `<a href="${follower.profileUrl}" target="_blank"><img src="${follower.picUrl.split("?")[0] + "?s=50"}" alt="Follower" width="50"/></a>`,
         )
         .join("\n") +
       `</div>`,
