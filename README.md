@@ -348,6 +348,8 @@ Other         12 hrs 22 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pulkitxm&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ------------
 
 <!--START_SECTION:workflows-update-->
