@@ -1,0 +1,30 @@
+{
+  "name": "pulkitxm",
+  "version": "0.1.0",
+  "description": "Simple CLI to view Pulkit's developer profile",
+  "main": "cli.js",
+  "bin": {
+    "pulkitxm": "./cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pulkitxm/pulkitxm.git"
+  },
+  "keywords": [
+    "cli",
+    "profile",
+    "pulkitxm"
+  ],
+  "author": "Pulkit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pulkitxm/pulkitxm/issues"
+  },
+  "homepage": "https://github.com/Pulkitxm/pulkitxm#readme"
+}
