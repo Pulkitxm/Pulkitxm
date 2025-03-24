@@ -23,19 +23,19 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 ### :pencil: [Latest blog posts](https://blogs.pulkitxm.com)
 
 <!--START_SECTION:blog-posts-->
-| Title                                                                                                                          | Date         | Image                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.pulkitxm.com/emails-with-resend)              | Dec 13, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/emails-with-resend)                    |
-| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.pulkitxm.com/open-graph-images-in-nextjs)  | Nov 15, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/open-graph-images-in-nextjs)            |
-| [Setting Up Prisma ORM with PostgreSQL](https://blogs.pulkitxm.com/setting-up-prisma-orm-with-postgresql)                      | Aug 17, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/setting-up-prisma-orm-with-postgresql) |
-| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.pulkitxm.com/react-image-gallery-with-photoswipe) | Aug 12, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/react-image-gallery-with-photoswipe)   |
+| Title | Date | Image |
+| ----- | ---- | ----- |
+| [Building a Contact Form in Next.js with Resend Email Integration](https://blogs.pulkitxm.com/emails-with-resend) | Dec 13, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/emails-with-resend)
+| [Boost Your Link Previews: Implementing Open Graph Images in Next.js](https://blogs.pulkitxm.com/open-graph-images-in-nextjs) | Nov 15, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/open-graph-images-in-nextjs)
+| [Setting Up Prisma ORM with PostgreSQL](https://blogs.pulkitxm.com/setting-up-prisma-orm-with-postgresql) | Aug 17, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/setting-up-prisma-orm-with-postgresql)
+| [Adding Animated Image Zoom to Your React App with PhotoSwipe](https://blogs.pulkitxm.com/react-image-gallery-with-photoswipe) | Aug 12, 2024 | [<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg?w=300&h=157&fit=crop&crop=entropy&auto=compress,format&format=webp" width="200px"  />](https://blogs.pulkitxm.com/react-image-gallery-with-photoswipe)
 <!--END_SECTION:blog-posts-->
 
 ---
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (308)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (309)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -251,6 +251,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/ramubethi" target="_blank"><img src="https://avatars.githubusercontent.com/u/83519221?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/ravinder9280" target="_blank"><img src="https://avatars.githubusercontent.com/u/168911719?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/realsubodh" target="_blank"><img src="https://avatars.githubusercontent.com/u/102369905?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/RichaBharti0603" target="_blank"><img src="https://avatars.githubusercontent.com/u/195442891?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/rishisulakhe" target="_blank"><img src="https://avatars.githubusercontent.com/u/171431442?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/riteshyaaa" target="_blank"><img src="https://avatars.githubusercontent.com/u/172425050?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/riyan047" target="_blank"><img src="https://avatars.githubusercontent.com/u/91652308?s=50" alt="Follower" width="50"/></a>
@@ -385,8 +386,8 @@ Other         13 hrs 24 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Mar 23, 2025, 7:46 AM IST</b><br/>
-      Number of workflows: <b>310</b><br/><br/>
+      Last refresh: <b>Mar 24, 2025, 7:43 AM IST</b><br/>
+      Number of workflows: <b>317</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
