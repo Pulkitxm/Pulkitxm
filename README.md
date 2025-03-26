@@ -35,7 +35,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (309)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (308)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -245,9 +245,8 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/pruthviraj7714" target="_blank"><img src="https://avatars.githubusercontent.com/u/138095461?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/pulkitxm2" target="_blank"><img src="https://avatars.githubusercontent.com/u/129366644?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/RahulDadhich26" target="_blank"><img src="https://avatars.githubusercontent.com/u/111578507?s=50" alt="Follower" width="50"/></a>
-<a href="https://github.com/Raj-Thombare" target="_blank"><img src="https://avatars.githubusercontent.com/u/86057670?s=50" alt="Follower" width="50"/></a>
-<a href="https://github.com/rajarshidattapy" target="_blank"><img src="https://avatars.githubusercontent.com/u/138959719?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/rajatcantcode" target="_blank"><img src="https://avatars.githubusercontent.com/u/130392640?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/rajthombare" target="_blank"><img src="https://avatars.githubusercontent.com/u/86057670?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/ramubethi" target="_blank"><img src="https://avatars.githubusercontent.com/u/83519221?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/ravinder9280" target="_blank"><img src="https://avatars.githubusercontent.com/u/168911719?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/realsubodh" target="_blank"><img src="https://avatars.githubusercontent.com/u/102369905?s=50" alt="Follower" width="50"/></a>
@@ -386,8 +385,8 @@ Other         13 hrs 24 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Mar 25, 2025, 7:41 AM IST</b><br/>
-      Number of workflows: <b>321</b><br/><br/>
+      Last refresh: <b>Mar 26, 2025, 7:40 AM IST</b><br/>
+      Number of workflows: <b>325</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
