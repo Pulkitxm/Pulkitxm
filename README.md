@@ -35,7 +35,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (311)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (314)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -122,6 +122,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/chameli-codes" target="_blank"><img src="https://avatars.githubusercontent.com/u/110627695?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/charlie-verse" target="_blank"><img src="https://avatars.githubusercontent.com/u/128649583?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/chetanchaudhari789" target="_blank"><img src="https://avatars.githubusercontent.com/u/123301996?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/chotu565" target="_blank"><img src="https://avatars.githubusercontent.com/u/192173883?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/clevercoderjoy" target="_blank"><img src="https://avatars.githubusercontent.com/u/74505057?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/CodedByYash" target="_blank"><img src="https://avatars.githubusercontent.com/u/113412567?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/codekushagra" target="_blank"><img src="https://avatars.githubusercontent.com/u/118090317?s=50" alt="Follower" width="50"/></a>
@@ -148,6 +149,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/EmaniAditya" target="_blank"><img src="https://avatars.githubusercontent.com/u/93025567?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/emSoumik" target="_blank"><img src="https://avatars.githubusercontent.com/u/91387533?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/ErArbazAnsari" target="_blank"><img src="https://avatars.githubusercontent.com/u/92993047?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/ezeslucky" target="_blank"><img src="https://avatars.githubusercontent.com/u/161119463?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Fadddin" target="_blank"><img src="https://avatars.githubusercontent.com/u/111304936?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Faisal786111" target="_blank"><img src="https://avatars.githubusercontent.com/u/124188437?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Farooq7234" target="_blank"><img src="https://avatars.githubusercontent.com/u/118684694?s=50" alt="Follower" width="50"/></a>
@@ -243,14 +245,15 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/Prajwal-17" target="_blank"><img src="https://avatars.githubusercontent.com/u/74175249?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/prajwal2431" target="_blank"><img src="https://avatars.githubusercontent.com/u/74145726?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Prathyush-Varrey" target="_blank"><img src="https://avatars.githubusercontent.com/u/155862543?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/prayag-ahire" target="_blank"><img src="https://avatars.githubusercontent.com/u/146099103?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Prince777a" target="_blank"><img src="https://avatars.githubusercontent.com/u/108861015?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/ProgrammerVijender" target="_blank"><img src="https://avatars.githubusercontent.com/u/65845843?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Prthmsh7" target="_blank"><img src="https://avatars.githubusercontent.com/u/115979305?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/pruthviraj7714" target="_blank"><img src="https://avatars.githubusercontent.com/u/138095461?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/pulkitxm2" target="_blank"><img src="https://avatars.githubusercontent.com/u/129366644?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/RahulDadhich26" target="_blank"><img src="https://avatars.githubusercontent.com/u/111578507?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/Raj-Thombare" target="_blank"><img src="https://avatars.githubusercontent.com/u/86057670?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/rajatcantcode" target="_blank"><img src="https://avatars.githubusercontent.com/u/130392640?s=50" alt="Follower" width="50"/></a>
-<a href="https://github.com/rajthombare" target="_blank"><img src="https://avatars.githubusercontent.com/u/86057670?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/ramubethi" target="_blank"><img src="https://avatars.githubusercontent.com/u/83519221?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/ravinder9280" target="_blank"><img src="https://avatars.githubusercontent.com/u/168911719?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/realsubodh" target="_blank"><img src="https://avatars.githubusercontent.com/u/102369905?s=50" alt="Follower" width="50"/></a>
@@ -388,8 +391,8 @@ Bash          14 hrs 24 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Apr 1, 2025, 7:54 AM IST</b><br/>
-      Number of workflows: <b>349</b><br/><br/>
+      Last refresh: <b>Apr 2, 2025, 7:42 AM IST</b><br/>
+      Number of workflows: <b>353</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
