@@ -35,7 +35,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (318)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (320)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -123,6 +123,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/charlie-verse" target="_blank"><img src="https://avatars.githubusercontent.com/u/128649583?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/chetanchaudhari789" target="_blank"><img src="https://avatars.githubusercontent.com/u/123301996?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/chotu565" target="_blank"><img src="https://avatars.githubusercontent.com/u/192173883?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/Cizelle" target="_blank"><img src="https://avatars.githubusercontent.com/u/86152390?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/clevercoderjoy" target="_blank"><img src="https://avatars.githubusercontent.com/u/74505057?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/CodedByYash" target="_blank"><img src="https://avatars.githubusercontent.com/u/113412567?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/codekushagra" target="_blank"><img src="https://avatars.githubusercontent.com/u/118090317?s=50" alt="Follower" width="50"/></a>
@@ -253,6 +254,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/ProgrammerVijender" target="_blank"><img src="https://avatars.githubusercontent.com/u/65845843?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Prthmsh7" target="_blank"><img src="https://avatars.githubusercontent.com/u/115979305?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/pruthviraj7714" target="_blank"><img src="https://avatars.githubusercontent.com/u/138095461?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/pulkitgarg04" target="_blank"><img src="https://avatars.githubusercontent.com/u/87312278?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/pulkitxm2" target="_blank"><img src="https://avatars.githubusercontent.com/u/129366644?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/RahulDadhich26" target="_blank"><img src="https://avatars.githubusercontent.com/u/111578507?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Raj-Thombare" target="_blank"><img src="https://avatars.githubusercontent.com/u/86057670?s=50" alt="Follower" width="50"/></a>
@@ -395,8 +397,8 @@ Bash          16 hrs 23 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Apr 7, 2025, 7:45 AM IST</b><br/>
-      Number of workflows: <b>373</b><br/><br/>
+      Last refresh: <b>Apr 8, 2025, 7:42 AM IST</b><br/>
+      Number of workflows: <b>377</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
