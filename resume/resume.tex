@@ -46,7 +46,7 @@
 \raggedright%
 \setlength{\tabcolsep}{0in}
 \titleformat{\section}{
-  \vspace{-4pt}\scshape\raggedright\large\bfseries
+  \vspace{-6pt}\scshape\raggedright\large\bfseries
 }{}{0em}{}[\color{headerColor}\titlerule%
 \vspace{-5pt}]
 \pdfgentounicode=1
@@ -128,11 +128,9 @@
 {Full Stack Engineer Intern}{April 2024 - Sept. 2024}
 {\href{https://www.datawavelabs.io/}{Datawavelabs}}{Remote, India}
 \resumeItemListStart%
-\resumeItem{Increased user authentication security by 40\% through implementation of JWT tokens and Google OAuth integration}
-\resumeItem{Implemented cloud account integration with AWS, Azure, and GCP, allowing users to connect and manage cloud services within the application.}
-\resumeItem{Automated the workflow of running Docker containers for cluster services, providing real-time status updates and improving system efficiency.}
-\resumeItem{Improved database query performance by 50\% by implementing SQLAlchemy ORM and optimizing PostgreSQL queries instead of raw sql queries}
-\resumeItem{Collaborated in daily standup meetings and effectively managed tasks with minimal supervision, ensuring timely delivery of features.}
+\resumeItem{Enhanced authentication security by implementing JWT tokens and Google OAuth integration for streamlined user access}
+\resumeItem{Developed multi-cloud integration system for AWS, Azure, and GCP, enabling users to manage resources through a unified dashboard}
+\resumeItem{Automated Docker container deployment for cluster services with real-time status monitoring, significantly reducing manual configuration}
 \resumeItemListEnd%
 \resumeSubHeadingListEnd%
 \vspace{-14pt}
@@ -140,6 +138,13 @@
 \section{Technical Projects}
 \vspace{-1pt}
 \begin{itemize}[leftmargin=*,itemsep=2pt,parsep=0pt,topsep=0pt,partopsep=0pt]
+
+	\item \textbf{\href{[https://devolympus.deviatorsdce.tech}{Devolympus Hackathon Platform}} $|$ \emph{NextJS, PostgreSQL, GCP, OAuth 2.0}\hfill {April 2024}
+	      \begin{itemize}[leftmargin=*,itemsep=1pt,parsep=0pt,topsep=0pt,partopsep=0pt]
+		      \item Engineered a full hackathon management system that processed 350+ user registrations and coordinated 80 teams, reducing administrative workload by 80\%.
+		      \item Implemented secure OAuth 2.0 authentication via Google Cloud Platform, designed APIs for team registration, payment processing, and document management.
+		      \item Developed an admin dashboard with role-based access control, enabling event organizers to review applications, manage selection processes, and automate participant communications.
+	      \end{itemize}
 
 	\item \textbf{\href{https://deployit.live/}{Deployit}} $|$ \emph{NextJS, Docker, Redis, Ec2, Deployment Pipeline, Shell Scripting}\hfill {August 2024}
 	      \begin{itemize}[leftmargin=*,itemsep=1pt,parsep=0pt,topsep=0pt,partopsep=0pt]
@@ -151,52 +156,40 @@
 		            reliably.
 	      \end{itemize}
 
-	\item \textbf{{\href{https://github.com/Pulkitxm/VidWave}{VidWave}}} $|$ \emph{MERN, Typescript, S3, Docker, Video.js (HLS)}\hfill {August 2024}
-	      \begin{itemize}[leftmargin=*,itemsep=1pt,parsep=0pt,topsep=0pt,partopsep=0pt]
-		      \item Developed a video streaming platform with upload, transcoding, and streaming
-		            capabilities using AWS S3.
-		      \item Designed automatic video transcoding and HLS streaming for optimal playback,
-		            leveraging Redis for efficient queue management.
-	      \end{itemize}
-
 \end{itemize}
 \vspace{-8pt}
 
 \section{Technical Skills}
-\begin{itemize}[leftmargin=*,itemsep=2pt,parsep=0pt,topsep=0pt,partopsep=0pt]
-	\item \textbf{Languages:} TypeScript, JavaScript, Python, Java, C++, SQL
-	\item \textbf{Backend:} Node.js, Express.js, Hono, FastAPI, GraphQL, REST APIs
-	\item \textbf{Frontend:} NextJS, React.js, HTML5, CSS3, Tailwind CSS, Material-UI, Redux, Shadcn/ui
-	\item \textbf{DevOps \& Cloud:} Docker, AWS (EC2, S3, CloudFront), Azure, CI/CD, GitHub Actions
-	\item \textbf{Database \& Cache:} PostgreSQL, MongoDB, Redis, Prisma ORM
-	\item \textbf{Testing:} Jest, Cypress, Unit Testing, Integration Testing
-	\item \textbf{Tools \& Security:} Git, JWT, OAuth 2.0, Bcrypt
+\begin{itemize}[leftmargin=*,itemsep=0pt,parsep=0pt,topsep=0pt,partopsep=0pt]
+	\item \textbf{Languages \& Core:} TypeScript, JavaScript, Python, Java, C++, SQL, Node.js, Express.js, Hono, FastAPI
+	\item \textbf{Frontend \& UI:} NextJS, React.js, HTML5, CSS3, Tailwind CSS, Material-UI, Redux, Shadcn/ui
+	\item \textbf{Infrastructure:} Docker, AWS (EC2, S3, CloudFront), Azure, GCP, CI/CD, GitHub Actions, PostgreSQL, MongoDB, Redis
+	\item \textbf{Tools \& Protocols:} Git, REST, GraphQL, JWT, OAuth 2.0, Prisma ORM, Jest, Cypress, Bcrypt
 \end{itemize}
-\vspace{-7pt}
+\vspace{-6pt}
 
-% \section{Certifications}
-% \vspace{-8pt}
-% \begin{table}[h!]
-%     \renewcommand{\arraystretch}{1.5}
-%     \setlength{\tabcolsep}{6pt}
-%     \begin{tabularx}{\linewidth}{|X|X|l|l|}
-%         \hline
-%         \textbf{Certification} & \textbf{Issuing Organization} & \textbf{Date} & \textbf{Link} \\
-%         \hline
-%         GitHub Foundations & \href{https://github.com}{GitHub} & November, 2024 & 
-%         \href{https://www.credly.com/badges/0d980c06-511c-4e3d-a9a7-9973688b34ad}{View} \\
-%         \hline
-%         Full Stack Open & \href{https://www.helsinki.fi/en}{University of Helsinki} & March, 2024 & 
-%         \href{https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/YOUR-CERT-ID}{View} \\
-%         \hline
-%     \end{tabularx}
-% \end{table}
+\section{Certifications}
+\vspace{-8pt}
+\begin{table}[h!]
+	\renewcommand{\arraystretch}{1.5}
+	\setlength{\tabcolsep}{6pt}
+	\begin{tabularx}{\linewidth}{|X|X|l|l|}
+		\hline
+		\textbf{Certification} & \textbf{Issuing Organization}                             & \textbf{Date}  & \textbf{Link} \\
+		\hline
+		GitHub Foundations     & \href{https://github.com}{GitHub}                         & November, 2024 &
+		\href{https://www.credly.com/badges/0d980c06-511c-4e3d-a9a7-9973688b34ad}{View}                                     \\
+		\hline
+		Full Stack Open        & \href{https://www.helsinki.fi/en}{University of Helsinki} & March, 2024    &
+		\href{https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/YOUR-CERT-ID}{View}                     \\
+		\hline
+	\end{tabularx}
+\end{table}
+\vspace{-14pt}
 
 \section{Leadership \& Achievements}
-\begin{itemize}[leftmargin=*,itemsep=2pt,parsep=0pt,topsep=0pt,partopsep=0pt]
+\begin{itemize}[leftmargin=*,itemsep=0pt,parsep=0pt,topsep=0pt,partopsep=0pt]
 	\item \textbf{ICPC Amritapuri 2023 Regionalist}: Qualified for the regional round of the global programming competition.
-	\item \textbf{Chairman \& Web Lead}, Deviators Club: Student-led technical initiative. Hosted a lot of tech events
-	\item \textbf{HackKRMU 3.0 AIML Track Prize Winner}: Recognized for innovative AI/ML application.
 	\item \textbf{Gurugram University Ideathon Winner}: Secured first place for innovative AI-driven travel solutions, awarded by the Honorable Chief Minister of Haryana.
 \end{itemize}
 
