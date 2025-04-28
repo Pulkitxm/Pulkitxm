@@ -140,13 +140,13 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/Deepayan-Bose" target="_blank"><img src="https://avatars.githubusercontent.com/u/108746346?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/deviatorsclub" target="_blank"><img src="https://avatars.githubusercontent.com/u/168906943?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/devpulkitt" target="_blank"><img src="https://avatars.githubusercontent.com/u/191749786?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/devv-loper" target="_blank"><img src="https://avatars.githubusercontent.com/u/197363809?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/devyk100" target="_blank"><img src="https://avatars.githubusercontent.com/u/146738515?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Dhruveren" target="_blank"><img src="https://avatars.githubusercontent.com/u/113223880?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Dilli-Raj-Timalsina" target="_blank"><img src="https://avatars.githubusercontent.com/u/92309333?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/DiptiChahar" target="_blank"><img src="https://avatars.githubusercontent.com/u/120940879?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/divA2805" target="_blank"><img src="https://avatars.githubusercontent.com/u/158808168?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Dsj-24" target="_blank"><img src="https://avatars.githubusercontent.com/u/113337165?s=50" alt="Follower" width="50"/></a>
-<a href="https://github.com/EliasPereirah" target="_blank"><img src="https://avatars.githubusercontent.com/u/16616409?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/EmaniAditya" target="_blank"><img src="https://avatars.githubusercontent.com/u/93025567?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/emSoumik" target="_blank"><img src="https://avatars.githubusercontent.com/u/91387533?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/ErArbazAnsari" target="_blank"><img src="https://avatars.githubusercontent.com/u/92993047?s=50" alt="Follower" width="50"/></a>
@@ -405,8 +405,8 @@ JSON          17 hrs 32 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Apr 27, 2025, 7:51 AM IST</b><br/>
-      Number of workflows: <b>464</b><br/><br/>
+      Last refresh: <b>Apr 28, 2025, 7:49 AM IST</b><br/>
+      Number of workflows: <b>468</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
