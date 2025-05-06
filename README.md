@@ -35,7 +35,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (329)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (330)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -293,6 +293,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/sambhavrana27" target="_blank"><img src="https://avatars.githubusercontent.com/u/136957965?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Sameer103" target="_blank"><img src="https://avatars.githubusercontent.com/u/79912125?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/samyyzz" target="_blank"><img src="https://avatars.githubusercontent.com/u/121953297?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/Sandesh-Upadhyay" target="_blank"><img src="https://avatars.githubusercontent.com/u/143114420?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/sane-aalam" target="_blank"><img src="https://avatars.githubusercontent.com/u/123074523?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/sanjeevkuinkel" target="_blank"><img src="https://avatars.githubusercontent.com/u/125940625?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/SankalpHaritash21" target="_blank"><img src="https://avatars.githubusercontent.com/u/110713125?s=50" alt="Follower" width="50"/></a>
@@ -406,8 +407,8 @@ JSON          17 hrs 35 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>May 5, 2025, 7:51 AM IST</b><br/>
-      Number of workflows: <b>498</b><br/><br/>
+      Last refresh: <b>May 6, 2025, 7:48 AM IST</b><br/>
+      Number of workflows: <b>502</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
