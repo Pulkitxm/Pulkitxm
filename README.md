@@ -354,9 +354,9 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/UrCode-Buddy" target="_blank"><img src="https://avatars.githubusercontent.com/u/136894128?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/usernameswapnil" target="_blank"><img src="https://avatars.githubusercontent.com/u/124446138?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/uurbanbuddha" target="_blank"><img src="https://avatars.githubusercontent.com/u/126100574?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/v-ju" target="_blank"><img src="https://avatars.githubusercontent.com/u/106214179?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Vaibhaav-Tiwari" target="_blank"><img src="https://avatars.githubusercontent.com/u/155460282?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/vibhorjoshi" target="_blank"><img src="https://avatars.githubusercontent.com/u/105739194?s=50" alt="Follower" width="50"/></a>
-<a href="https://github.com/Vijaya-13" target="_blank"><img src="https://avatars.githubusercontent.com/u/106214179?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/vineet-op" target="_blank"><img src="https://avatars.githubusercontent.com/u/103635529?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/vinodpr1" target="_blank"><img src="https://avatars.githubusercontent.com/u/88377243?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/vishnu-mouli-102408" target="_blank"><img src="https://avatars.githubusercontent.com/u/108977652?s=50" alt="Follower" width="50"/></a>
@@ -408,8 +408,8 @@ JSON          18 hrs 2 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>May 10, 2025, 7:44 AM IST</b><br/>
-      Number of workflows: <b>518</b><br/><br/>
+      Last refresh: <b>May 11, 2025, 7:55 AM IST</b><br/>
+      Number of workflows: <b>522</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
