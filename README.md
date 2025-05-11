@@ -12,7 +12,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 
 - :computer: Know more about me: [pulkitxm.com](https://www.pulkitxm.com/)
 - :pencil2: JavaScript / TypeScript / Python
-- :package: [Ubuntu](https://ubuntu.com/) / [vscode](https://code.visualstudio.com) / [edge](https://www.microsoft.com/en-us/edge)
+- :package: [Ubuntu](https://ubuntu.com/) / [vscode](https://code.visualstudio.com) / [chrome](https://www.google.com/chrome)
 - :seedling: Exploring new opportunities in tech!
 - :thought_balloon: Ask me anything at [Discussions](https://github.com/pulkitxm/pulkitxm/discussions/new/choose)!
 - :star: [Projects starred by me](https://github.com/Pulkitxm?tab=stars)
