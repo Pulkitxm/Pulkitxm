@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Building a Contact Form in Next.js with Resend Email Integration",
+    "url": "https://blogs.pulkitxm.com/emails-with-resend",
+    "dateAdded": "Dec 13, 2024",
+    "coverImage": {
+      "url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734081142688/30bd0035-ff2e-4a94-a3f3-5549231565e4.jpeg"
+    }
+  },
+  {
+    "title": "Boost Your Link Previews: Implementing Open Graph Images in Next.js",
+    "url": "https://blogs.pulkitxm.com/open-graph-images-in-nextjs",
+    "dateAdded": "Nov 15, 2024",
+    "coverImage": {
+      "url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731658433998/70bdbb5d-1123-478d-b35a-316169ce5615.png"
+    }
+  },
+  {
+    "title": "Setting Up Prisma ORM with PostgreSQL",
+    "url": "https://blogs.pulkitxm.com/setting-up-prisma-orm-with-postgresql",
+    "dateAdded": "Aug 17, 2024",
+    "coverImage": {
+      "url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1734016058521/1d653d70-3204-40fa-9272-58298cd8e663.webp"
+    }
+  },
+  {
+    "title": "Adding Animated Image Zoom to Your React App with PhotoSwipe",
+    "url": "https://blogs.pulkitxm.com/react-image-gallery-with-photoswipe",
+    "dateAdded": "Aug 12, 2024",
+    "coverImage": {
+      "url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723050714944/ecb7f6c0-7151-4ce1-9c57-08c47e2a6625.jpeg"
+    }
+  }
+]
