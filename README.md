@@ -35,7 +35,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (355)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (354)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
@@ -66,6 +66,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/ahmadsalahuddeen" target="_blank"><img src="https://avatars.githubusercontent.com/u/71287508?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/AI0228" target="_blank"><img src="https://avatars.githubusercontent.com/u/145859755?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Akash-YS05" target="_blank"><img src="https://avatars.githubusercontent.com/u/142709518?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/Akashpurohit77" target="_blank"><img src="https://avatars.githubusercontent.com/u/149329358?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/akdevv" target="_blank"><img src="https://avatars.githubusercontent.com/u/153580667?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/akheel-zuber" target="_blank"><img src="https://avatars.githubusercontent.com/u/127199538?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/AkshitBhandariCodes" target="_blank"><img src="https://avatars.githubusercontent.com/u/174789015?s=50" alt="Follower" width="50"/></a>
@@ -112,7 +113,6 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/belikeabhayx" target="_blank"><img src="https://avatars.githubusercontent.com/u/144847517?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/best-journey" target="_blank"><img src="https://avatars.githubusercontent.com/u/144888274?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/BhagwaniVishi" target="_blank"><img src="https://avatars.githubusercontent.com/u/162348077?s=50" alt="Follower" width="50"/></a>
-<a href="https://github.com/bhaveshsinghal95182" target="_blank"><img src="https://avatars.githubusercontent.com/u/168349039?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Bhavishya-Chaturvedi" target="_blank"><img src="https://avatars.githubusercontent.com/u/139005062?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/BionStt" target="_blank"><img src="https://avatars.githubusercontent.com/u/43228630?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/blackcoffee767" target="_blank"><img src="https://avatars.githubusercontent.com/u/193055432?s=50" alt="Follower" width="50"/></a>
@@ -136,7 +136,6 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/coder-prashant-raut" target="_blank"><img src="https://avatars.githubusercontent.com/u/162595999?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/coderizzz" target="_blank"><img src="https://avatars.githubusercontent.com/u/145856858?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/CodeWithJune" target="_blank"><img src="https://avatars.githubusercontent.com/u/126228323?s=50" alt="Follower" width="50"/></a>
-<a href="https://github.com/Crazycrystaldev" target="_blank"><img src="https://avatars.githubusercontent.com/u/181829432?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Darshan98Solanki" target="_blank"><img src="https://avatars.githubusercontent.com/u/106055701?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/dasrupdip04" target="_blank"><img src="https://avatars.githubusercontent.com/u/179886549?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/davidfgomes" target="_blank"><img src="https://avatars.githubusercontent.com/u/132530609?s=50" alt="Follower" width="50"/></a>
@@ -432,8 +431,8 @@ JSON          21 hrs 37 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Jun 30, 2025, 8:01 AM IST</b><br/>
-      Number of workflows: <b>726</b><br/><br/>
+      Last refresh: <b>Jul 1, 2025, 8:08 AM IST</b><br/>
+      Number of workflows: <b>730</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
