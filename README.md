@@ -223,7 +223,6 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/mayank-0407" target="_blank"><img src="https://avatars.githubusercontent.com/u/97796657?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/mebremame" target="_blank"><img src="https://avatars.githubusercontent.com/u/165416120?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/meta-berserk" target="_blank"><img src="https://avatars.githubusercontent.com/u/201197047?s=50" alt="Follower" width="50"/></a>
-<a href="https://github.com/moarbaz01" target="_blank"><img src="https://avatars.githubusercontent.com/u/134392076?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/mohammedniyafsm" target="_blank"><img src="https://avatars.githubusercontent.com/u/192700583?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/MohdFaisalBidda" target="_blank"><img src="https://avatars.githubusercontent.com/u/96825384?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/mohit-100" target="_blank"><img src="https://avatars.githubusercontent.com/u/142308041?s=50" alt="Follower" width="50"/></a>
@@ -349,6 +348,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/sins921" target="_blank"><img src="https://avatars.githubusercontent.com/u/197335226?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/smitjiwani" target="_blank"><img src="https://avatars.githubusercontent.com/u/78549024?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/sneha390" target="_blank"><img src="https://avatars.githubusercontent.com/u/121714041?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/Sohan-Rout" target="_blank"><img src="https://avatars.githubusercontent.com/u/172136330?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/someshjoyguru" target="_blank"><img src="https://avatars.githubusercontent.com/u/99559848?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/souvikpramanikgit" target="_blank"><img src="https://avatars.githubusercontent.com/u/123581988?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/souvikree" target="_blank"><img src="https://avatars.githubusercontent.com/u/143630779?s=50" alt="Follower" width="50"/></a>
@@ -432,8 +432,8 @@ JSON          23 hrs 6 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Jul 6, 2025, 8:05 AM IST</b><br/>
-      Number of workflows: <b>750</b><br/><br/>
+      Last refresh: <b>Jul 7, 2025, 8:02 AM IST</b><br/>
+      Number of workflows: <b>754</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
