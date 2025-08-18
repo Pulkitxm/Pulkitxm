@@ -35,12 +35,13 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 
 <!--START_SECTION:top-followers-heading-->
 
-### :sparkles: [My followers (361)](https://github.com/Pulkitxm?tab=followers)
+### :sparkles: [My followers (362)](https://github.com/Pulkitxm?tab=followers)
 
 <!--End_SECTION:top-followers-heading-->
 
 <!--START_SECTION:top-followers-->
 <div style="display: flex; justify-content: center; flex-wrap: wrap;"><a href="https://github.com/0xYuub" target="_blank"><img src="https://avatars.githubusercontent.com/u/146666652?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/4arjun" target="_blank"><img src="https://avatars.githubusercontent.com/u/144534911?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/86pushkar24" target="_blank"><img src="https://avatars.githubusercontent.com/u/177323004?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/AakashGujar" target="_blank"><img src="https://avatars.githubusercontent.com/u/109903705?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/aaronwrites" target="_blank"><img src="https://avatars.githubusercontent.com/u/178479350?s=50" alt="Follower" width="50"/></a>
@@ -438,8 +439,8 @@ Python        27 hrs 51 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Aug 17, 2025, 8:03 AM IST</b><br/>
-      Number of workflows: <b>917</b><br/><br/>
+      Last refresh: <b>Aug 18, 2025, 8:04 AM IST</b><br/>
+      Number of workflows: <b>921</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
