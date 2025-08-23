@@ -242,7 +242,6 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/neerajjagga" target="_blank"><img src="https://avatars.githubusercontent.com/u/141334495?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/nelbetancur" target="_blank"><img src="https://avatars.githubusercontent.com/u/207216445?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/nidhish-srivastava" target="_blank"><img src="https://avatars.githubusercontent.com/u/108972571?s=50" alt="Follower" width="50"/></a>
-<a href="https://github.com/nihal-soni" target="_blank"><img src="https://avatars.githubusercontent.com/u/109461841?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/nikhil7248" target="_blank"><img src="https://avatars.githubusercontent.com/u/156672525?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Nishchhal-26" target="_blank"><img src="https://avatars.githubusercontent.com/u/118473569?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Nitesh-thapliyal" target="_blank"><img src="https://avatars.githubusercontent.com/u/53345517?s=50" alt="Follower" width="50"/></a>
@@ -343,6 +342,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/ShubhamBane478" target="_blank"><img src="https://avatars.githubusercontent.com/u/74781889?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/shubhamkrsingh565" target="_blank"><img src="https://avatars.githubusercontent.com/u/63440492?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/shubhamsharma-10" target="_blank"><img src="https://avatars.githubusercontent.com/u/147449193?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/shubhangi47" target="_blank"><img src="https://avatars.githubusercontent.com/u/50401971?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/shubhook" target="_blank"><img src="https://avatars.githubusercontent.com/u/175284833?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Shuklax" target="_blank"><img src="https://avatars.githubusercontent.com/u/44795504?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/shwetd19" target="_blank"><img src="https://avatars.githubusercontent.com/u/119885670?s=50" alt="Follower" width="50"/></a>
@@ -440,8 +440,8 @@ Python        28 hrs 3 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Aug 22, 2025, 7:47 AM IST</b><br/>
-      Number of workflows: <b>937</b><br/><br/>
+      Last refresh: <b>Aug 23, 2025, 7:42 AM IST</b><br/>
+      Number of workflows: <b>941</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
