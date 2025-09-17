@@ -76,7 +76,6 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/Ameerjafar" target="_blank"><img src="https://avatars.githubusercontent.com/u/105500361?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/ameya051" target="_blank"><img src="https://avatars.githubusercontent.com/u/75047964?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/amithgowda-m" target="_blank"><img src="https://avatars.githubusercontent.com/u/195707915?s=50" alt="Follower" width="50"/></a>
-<a href="https://github.com/amjuz" target="_blank"><img src="https://avatars.githubusercontent.com/u/137517288?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Anandprafull" target="_blank"><img src="https://avatars.githubusercontent.com/u/130361444?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Aniketvish0" target="_blank"><img src="https://avatars.githubusercontent.com/u/103020381?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/anindya444" target="_blank"><img src="https://avatars.githubusercontent.com/u/207505080?s=50" alt="Follower" width="50"/></a>
@@ -245,6 +244,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/Nishchhal-26" target="_blank"><img src="https://avatars.githubusercontent.com/u/118473569?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Nitesh-thapliyal" target="_blank"><img src="https://avatars.githubusercontent.com/u/53345517?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/nitinsai2612" target="_blank"><img src="https://avatars.githubusercontent.com/u/118629622?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/noahzblue" target="_blank"><img src="https://avatars.githubusercontent.com/u/137517288?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/npmkrish" target="_blank"><img src="https://avatars.githubusercontent.com/u/161558471?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/OfficialCodeVoyage" target="_blank"><img src="https://avatars.githubusercontent.com/u/72575602?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/omarsddq" target="_blank"><img src="https://avatars.githubusercontent.com/u/124886262?s=50" alt="Follower" width="50"/></a>
@@ -440,8 +440,8 @@ Python            30 hrs 6 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Sep 16, 2025, 7:37 AM IST</b><br/>
-      Number of workflows: <b>1040</b><br/><br/>
+      Last refresh: <b>Sep 17, 2025, 7:36 AM IST</b><br/>
+      Number of workflows: <b>1044</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
