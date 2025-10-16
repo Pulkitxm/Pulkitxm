@@ -70,7 +70,7 @@ My name is Pulkit. I'm a undergraduate from 🇮🇳 ![wakatime](https://visitor
 <a href="https://github.com/akheel-zuber" target="_blank"><img src="https://avatars.githubusercontent.com/u/127199538?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/AkshitBhandariCodes" target="_blank"><img src="https://avatars.githubusercontent.com/u/174789015?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/akshw" target="_blank"><img src="https://avatars.githubusercontent.com/u/166273016?s=50" alt="Follower" width="50"/></a>
-<a href="https://github.com/aliaman11072003" target="_blank"><img src="https://avatars.githubusercontent.com/u/132501232?s=50" alt="Follower" width="50"/></a>
+<a href="https://github.com/aman-ali07" target="_blank"><img src="https://avatars.githubusercontent.com/u/132501232?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/amannhq" target="_blank"><img src="https://avatars.githubusercontent.com/u/84219211?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Amanyadav0007" target="_blank"><img src="https://avatars.githubusercontent.com/u/113257634?s=50" alt="Follower" width="50"/></a>
 <a href="https://github.com/Ameerjafar" target="_blank"><img src="https://avatars.githubusercontent.com/u/105500361?s=50" alt="Follower" width="50"/></a>
@@ -438,8 +438,8 @@ Python            34 hrs 59 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="center">
       This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-      Last refresh: <b>Oct 15, 2025, 7:43 AM IST</b><br/>
-      Number of workflows: <b>1157</b><br/><br/>
+      Last refresh: <b>Oct 16, 2025, 7:41 AM IST</b><br/>
+      Number of workflows: <b>1161</b><br/><br/>
       Made with ❤️ by Pulkit
     </p>
 
